@@ -1,1 +1,1 @@
-This is the reposiroty for Feeding Frenzy Game
+This is the repository for Feeding Frenzy Game 
